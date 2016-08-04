@@ -1,0 +1,38 @@
+_repo: The-Man-That-Corrupted-Hadleyburg_1213
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Twain, Mark
+    aliases:
+    - Clemens, Samuel Langhorne
+    - Twain, Mark (Samuel Clemens)
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
+description: "\"The Man That Corrupted Hadleyburg\" is a piece of short fiction by\
+  \ Mark Twain. It first appeared in Harper's Monthly in December 1899, and was subsequently\
+  \ published by Harper & Brothers in the collection The Man That Corrupted Hadleyburg\
+  \ and Other Stories and Sketches (1900). Twain actually encouraged it to be read\
+  \ as a replay of the Garden of Eden story in a satiric sense.\n From Wikipedia (CC\
+  \ BY-SA)."
+gutenberg_issued: '1998-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1213'
+  wikidata: Q3819971
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Humorous stories, American'
+- !lcc 'PS'
+- GITenberg
+title: The Man That Corrupted Hadleyburg
+url: http://www.gutenberg.org/ebooks/1213
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Man_That_Corrupted_Hadleyburg
+- https://it.wikipedia.org/wiki/L%27uomo_che_corruppe_Hadleyburg
